@@ -1,0 +1,28 @@
+
+Q1
+
+
+
+run: hadoop jar friendRe.jar /yxt142830/input/networkdata /yxt142830/output1
+
+
+open:hdfs dfs -cat /yxt142830/output1/part-r-00000
+
+
+Q2:
+run:hadoop jar mutualfriend.jar MutualFriends /yxt142830/input/networkdata /yxt142830/output/2 10,12
+
+open:hdfs dfs -cat /yxt142830/output/2/*
+
+delete: hdfs dfs -rm -r /yxt142830/output/2
+
+Q3:
+run: hadoop jar friendpost.jar  /yxt142830/input/networkdata /yxt142830/output/3 10,12 /socNetData/userdata/
+
+open:hdfs dfs -cat /yxt142830/output/3/part-r-00000
+
+
+Q4:
+run: hadoop jar jobch.jar /yxt142830/input/networkdata /yxt142830/input/userdata /yxt142830/output4
+
+open:hdfs dfs -cat /yxt142830/output4/*

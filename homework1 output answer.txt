@@ -1,0 +1,45 @@
+Q1 answer:
+924:439,2409,6995,11860,15416,43748,45881
+8941:8943,8944,8940
+8942:8939,8940,8943,8944
+9019: 9022,317,9023
+9020: 9021,9016,9017,9022,317,9023
+9021:  9020,9016,9017,9022,317,9023
+9022: 9019,9020,9021,317,9016,9017,9023
+9990: 13134,13478,13877,34299,34485,34642,37941
+9992:9987,9989,35667,9991
+9993: 9991,13134,13478,13877,34299,34485,34642,37941
+
+Q2 answer:
+find mutual friend of (10,12)
+
+10,12   0,16,30,
+
+
+Q3 answer:
+find mutual friend of (10,12)
+
+10,12   Evangeline Taylor:45140,Rebecca Davis:33060,Florence Edwards:99362,
+
+
+Q4 answer:
+34447   1174 Blair Court,Higbee,Missouri,86
+22894   4181 Richards Avenue,Stockton,California,86
+2618    4449 Kildeer Drive,Hampton,Virginia,86
+43806   568 Columbia Road,Denver,Colorado,86
+19318   4035 Canis Heights Drive,Los Angeles,California,86
+22893   2661 Counts Lane,Cincinnati,Kentucky,86
+48926   238 Golden Street,Miami,Florida,86
+39342   4939 Hide A Way Road,San Jose,California,86
+30469   548 Camden Street,Sparks,Nevada,86
+21589   1606 Briarhill Lane,Akron,Ohio,86
+34271   2433 Kinney Street,Springfield,Massachusetts,86
+33662   4755 Oakway Lane,Los Angeles,California,86
+25644   1139 Emeral Dreams Drive,Rockford,Illinois,86
+2435    4287 Locust Street,Albany,Georgia,86
+2450    2741 Timber Ridge Road,Sacramento,California,86
+21605   3810 Willis Avenue,Deltona,Florida,86
+21609   131 Jett Lane,Los Angeles,California,86
+21616   1024 Graystone Lakes,Cedar Grove,Georgia,86
+21611   2779 Burke Street,Dedham,Massachusetts,86
+30438   2498 Heron Way,Portland,Oregon,86
